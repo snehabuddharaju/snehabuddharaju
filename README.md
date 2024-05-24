@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA ,PYTHON C,PHP**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,PYTHON,JAVA**
 
-- 📫 How to reach me **snehabsnehabuddharaju004@gmail.com**
+- 📫 How to reach me **snehabuddharaju004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
