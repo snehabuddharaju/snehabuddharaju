@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sneha Buddharaju</h1>
 <h3 align="center">A passionate computer science engineer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA ,PYTHON C,PHP**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA ,PYTHON, C,PHP**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,PYTHON,JAVA**
 
